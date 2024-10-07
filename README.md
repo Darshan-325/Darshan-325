@@ -114,4 +114,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=darshan-suryawanshi&show_icons=true&locale=en" alt="darshan-suryawanshi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darshan-suryawanshi&" alt="darshan-suryawanshi" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Darshan-325" alt="darshan-suryawanshi" /></p>
