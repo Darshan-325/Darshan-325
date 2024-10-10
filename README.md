@@ -37,7 +37,7 @@ c
   </a>
   <br>
   <br>
-  <!-- Frameworks -->
+  <!-- Frontend Frameworks and Libraries -->
   <a href="https://angular.io" target="_blank" rel="noreferrer">
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
   </a>
