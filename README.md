@@ -10,6 +10,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+   <a href="mailto:darshansury@gmail.com">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="30" height="30" style="vertical-align:middle;"/>
+  <span style="margin-left: 10px;">Send me an Email</span>
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -32,6 +36,7 @@ c
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
+  <br>
   <br>
   <!-- Frameworks -->
   <a href="https://angular.io" target="_blank" rel="noreferrer">
@@ -58,6 +63,7 @@ c
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
   </a>
+  <br>
   <br>
   <!-- Other Tools -->
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
