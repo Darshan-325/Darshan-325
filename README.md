@@ -1,15 +1,27 @@
-<h1 align="center">Hi, I'm Darshan Syuryawanshi</h1>
+The error in your current HTML is due to a missing Twitter username in the Twitter link. Here’s the corrected code:
+
+<h1 align="center">Hi, I'm Darshan Suryawanshi</h1>
 <h3 align="center">I am pursuing Computer Engineering</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=darshan-suryawanshi&label=Profile%20views&color=0e75b6&style=flat" alt="darshan-suryawanshi" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=darshan-suryawanshi&label=Profile%20views&color=0e75b6&style=flat" alt="darshan-suryawanshi" /> 
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darshan-suryawanshi" alt="darshan-suryawanshi" /></a> </p>
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=darshan-suryawanshi" alt="darshan-suryawanshi" />
+  </a> 
+</p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
+<p align="left"> 
+  <a href="https://twitter.com/your_twitter_username" target="blank">
+    <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="Twitter" />
+  </a> 
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <!-- Add your contact links here -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -107,8 +119,4 @@
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=darshan-suryawanshi&show_icons=true&locale=en&layout=compact" alt="darshan-suryawanshi" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=darshan-suryawanshi&show_icons=true&locale=en" alt="darshan-suryawanshi" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Darshan-325" alt="darshan-suryawanshi" /></p>
+<p><img align="left" src="
