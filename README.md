@@ -12,7 +12,6 @@
 <p align="left">
    <a href="mailto:darshansury@gmail.com">
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="30" height="30" style="vertical-align:middle;"/>
-  <span style="margin-left: 10px;">https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png"</span>
 </a>
 </p>
 
