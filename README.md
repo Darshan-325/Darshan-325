@@ -43,10 +43,9 @@ c
   </a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  </a>
-  <a href="[https://nestjs.com/](https://nextjs.org/)" target="_blank" rel="noreferrer">
-    <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nesxjs-plain.svg](https://static-00.iconduck.com/assets.00/nextjs-icon-2048x1234-pqycciiu.png)" alt="nestjs" width="40" height="40"/>
-  </a>
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+  <img src="https://static-00.iconduck.com/assets.00/nextjs-icon-2048x1234-pqycciiu.png" alt="nextjs" width="40" height="40"/>
+</a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
   </a>
